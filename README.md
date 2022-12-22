@@ -7,11 +7,14 @@ An example textfile needs to look as follows:
 
 ```
 1. Abraham SIMPSON (b.1937)
-sp: Mona STWEWART (b. 1940)
-  |-2. Herb SIMPSON (b. 1969)
+sp: Mona STWEWART (b.1940)
+  |-2. Herb SIMPSON
   |-2. Homer SIMPSON (b.1967, m.1996)
-  | sp: Marge BOUVIER (b. 1971, m.1996)
+  | sp: Marge BOUVIER (b.1971, m.1996)
   |  |-3. Bart SIMPSON (b.1997)
   |  |-3. Lisa SIMPSON (b.1999)
   |  |-3. Maggie SIMPSON (b.2005)
 ```
+
+This produces the following output: 
+![simspons_family_tree](https://user-images.githubusercontent.com/57871364/209159260-ca6e1f6e-bc31-45dc-8350-22640448116f.png)
